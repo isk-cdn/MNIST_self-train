@@ -1,1 +1,1 @@
-Small experiment of training on limited quantity labelled samples / auto-labelling.
+Small training experiment on limited quantity labelled samples / auto-labelling.
